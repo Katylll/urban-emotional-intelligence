@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.venv/
+urban-emotion/
+
+# Data (don’t upload large files)
+images/
+data/*.parquet
+
+# System
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
