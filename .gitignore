@@ -16,3 +16,10 @@ data/*.parquet
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Raw datasets
+data/statistical-gis-boundaries-london.zip
+data/os_open_roads/
+
+# Pilot files
+data/pilot_*
