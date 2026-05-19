@@ -10,6 +10,11 @@ urban-emotion/
 # Data (don’t upload large files)
 images/
 data/*.parquet
+data/vlm_features_progress.csv
+data/pilot_*
+data/statistical-gis-boundaries-london.zip
+data/os_open_roads/
+data/vlm_feature_errors_backup*.csv
 
 # System
 .DS_Store
