@@ -1,0 +1,48 @@
+Stage 6 Analysis Summary
+========================================
+Total images analysed: 655
+Total borough areas: 33
+Minimum images per borough: 12
+Maximum images per borough: 22
+
+Top 5 boroughs by stress:
+- City of London: 5.68
+- Hammersmith and Fulham: 5.43
+- Tower Hamlets: 5.42
+- Kensington and Chelsea: 5.36
+- Hackney: 5.34
+
+Top 5 boroughs by calm:
+- Bromley: 6.33
+- Richmond upon Thames: 6.21
+- Hillingdon: 6.17
+- Sutton: 6.13
+- Harrow: 5.93
+
+Top 5 boroughs by vitality:
+- City of London: 5.12
+- Kensington and Chelsea: 4.16
+- Tower Hamlets: 4.11
+- Camden: 4.00
+- Haringey: 3.92
+
+Top 5 boroughs by enclosure:
+- City of London: 7.73
+- Tower Hamlets: 7.07
+- Kensington and Chelsea: 6.40
+- Hackney: 6.14
+- Westminster: 6.02
+
+Top 5 boroughs by safety:
+- City of London: 5.79
+- Redbridge: 5.33
+- Haringey: 5.26
+- Richmond upon Thames: 5.23
+- Tower Hamlets: 5.22
+
+Top 5 boroughs by desolation:
+- Croydon: 7.25
+- Sutton: 6.85
+- Wandsworth: 6.71
+- Bexley: 6.59
+- Merton: 6.52
