@@ -28,3 +28,13 @@ data/os_open_roads/
 
 # Pilot files
 data/pilot_*
+
+# CLIP / validation local artefacts
+data/clip_image_embeddings.npy
+human_validation_images/
+data/scene_description_recovery_progress.csv
+data/scene_description_recovery_errors.csv
+data/scene_description_recovery_errors_backup_*.csv
+
+# Anchor images - keep local unless licensing is clear
+anchors/
